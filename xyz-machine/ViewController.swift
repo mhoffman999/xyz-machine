@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var yLabel: UILabel!
     @IBOutlet weak var zLabel: UILabel!
     
-    //Comment
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
